@@ -1,2 +1,2 @@
 # swimming_hub
-swimming pool events
+swimming pool events hub
